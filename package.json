@@ -1,0 +1,25 @@
+{
+  "name": "sis_ger",
+  "version": "1.0.0",
+  "description": "Um sistema para gerenciar tarefas rotineiras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabrielqa/sis_ger.git"
+  },
+  "author": "joaogabrielqa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaogabrielqa/sis_ger/issues"
+  },
+  "homepage": "https://github.com/joaogabrielqa/sis_ger#readme",
+  "devDependencies": {
+    "electron": "^7.1.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
